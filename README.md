@@ -1,1 +1,1 @@
-Example starter project with Scala
+`sbt run` to reproduce the error
